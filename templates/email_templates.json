@@ -1,0 +1,58 @@
+[
+  {
+    "id": "training_001",
+    "name": "Security Awareness Test",
+    "subject": "Security Test - Phishing Simulation",
+    "body": "This is a security awareness test email.\n\nOur security team is conducting phishing simulation exercises to help improve our defenses.\n\nPlease remain vigilant for suspicious emails in your inbox.\n\nBest regards,\nSecurity Team",
+    "category": "training",
+    "priority": "low",
+    "variables": [
+      "name",
+      "department"
+    ],
+    "created": "2026-01-31T20:51:05.018202",
+    "tags": [
+      "test",
+      "training",
+      "security"
+    ]
+  },
+  {
+    "id": "urgent_001",
+    "name": "Password Reset Required",
+    "subject": "URGENT: Password Reset Required",
+    "body": "Dear {name},\n\nOur security system has detected unusual activity on your account. \nTo protect your account, please reset your password immediately.\n\nClick here to reset: https://test.example.com/reset\n\nIf you did not request this change, please contact IT immediately.\n\nSincerely,\nIT Security Department",
+    "category": "urgent",
+    "priority": "high",
+    "variables": [
+      "name",
+      "position"
+    ],
+    "created": "2026-01-31T20:51:05.018220",
+    "tags": [
+      "urgent",
+      "password",
+      "security"
+    ]
+  },
+  {
+    "id": "business_001",
+    "name": "Meeting Invitation",
+    "subject": "Meeting Invitation: Quarterly Review",
+    "body": "Hello {name},\n\nYou are invited to attend our quarterly review meeting.\n\nDate: {date}\nTime: 2:00 PM EST\nLocation: Conference Room B / Zoom\n\nPlease RSVP by Friday.\n\nBest regards,\n{manager_name}\nDepartment Head",
+    "category": "business",
+    "priority": "medium",
+    "variables": [
+      "name",
+      "department",
+      "date",
+      "manager_name"
+    ],
+    "created": "2026-01-31T20:51:05.018226",
+    "tags": [
+      "meeting",
+      "business",
+      "invitation"
+    ]
+  }
+]

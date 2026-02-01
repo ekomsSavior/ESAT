@@ -1,0 +1,17 @@
+[
+  {
+    "subject": "Security Test - Phishing Simulation",
+    "body": "This is a test email for security awareness training.",
+    "category": "training"
+  },
+  {
+    "subject": "URGENT: Password Reset Required",
+    "body": "Please reset your password immediately.",
+    "category": "urgent"
+  },
+  {
+    "subject": "Meeting Invitation: Quarterly Review",
+    "body": "You are invited to attend our quarterly review meeting.",
+    "category": "business"
+  }
+]

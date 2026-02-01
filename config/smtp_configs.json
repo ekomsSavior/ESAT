@@ -1,0 +1,38 @@
+{
+  "gmail": {
+    "name": "Gmail",
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "encryption": "starttls",
+    "auth_type": "login",
+    "timeout": 30,
+    "description": "Google Gmail SMTP"
+  },
+  "outlook": {
+    "name": "Outlook",
+    "server": "smtp-mail.outlook.com",
+    "port": 587,
+    "encryption": "starttls",
+    "auth_type": "login",
+    "timeout": 30,
+    "description": "Microsoft Outlook SMTP"
+  },
+  "yahoo": {
+    "name": "Yahoo",
+    "server": "smtp.mail.yahoo.com",
+    "port": 587,
+    "encryption": "starttls",
+    "auth_type": "login",
+    "timeout": 30,
+    "description": "Yahoo Mail SMTP"
+  },
+  "local": {
+    "name": "Local Test",
+    "server": "localhost",
+    "port": 25,
+    "encryption": "none",
+    "auth_type": "none",
+    "timeout": 10,
+    "description": "Local mail server for testing"
+  }
+}

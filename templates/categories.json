@@ -1,0 +1,27 @@
+[
+  {
+    "id": "training",
+    "name": "Training",
+    "description": "Security awareness emails"
+  },
+  {
+    "id": "urgent",
+    "name": "Urgent",
+    "description": "Time-sensitive emails"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "description": "Regular business emails"
+  },
+  {
+    "id": "newsletter",
+    "name": "Newsletter",
+    "description": "Newsletter-style emails"
+  },
+  {
+    "id": "phishing",
+    "name": "Phishing",
+    "description": "Phishing simulation emails"
+  }
+]
