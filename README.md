@@ -242,5 +242,4 @@ After each campaign, ESAT generates detailed reports in:
 
 The developer assumes **NO liability** and is **NOT responsible** for any misuse or damage caused by this tool. 
 
-
-**Happy (and responsible) testing!** 🚀
+![image0(1)](https://github.com/user-attachments/assets/c71fa2af-7e02-48ca-a32c-637f5d24d473)
